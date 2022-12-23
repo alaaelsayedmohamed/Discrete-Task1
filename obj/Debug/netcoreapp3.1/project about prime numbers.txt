@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp11, Configuration: Debug Any CPU ------
+1>ConsoleApp11 -> C:\Users\MF\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
